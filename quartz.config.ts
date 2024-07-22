@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "👁🗢👁 IonTheDev",
+    pageTitle: "👁️👄👁️ IonTheDev",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -28,18 +28,18 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#eff1f5",
+          lightgray: "#acb0be",
+          gray: "#7c7f93",
+          darkgray: "#5c5f77",
+          dark: "#4c4f69",
+          secondary: "#7287fd",
+          tertiary: "#e64553",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#fe640b",
         },
         darkMode: {
-          light: "#161618",
+          light: "#1e1e2e",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
