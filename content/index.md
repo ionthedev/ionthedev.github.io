@@ -14,7 +14,7 @@ Welcome to my site! Think of this as a form of virtual garden, in which all of m
 - Ko-Fi: https://ko-fi.com/ionthedev
 
 ### Recent Posts
-- [[Where is The Sauk Archive?]]
-- [[Fear The Crow]]
-- [[Phantom Engine]]
-- [[What's up with this place?]]
+- [Where is The Sauk Archive?](where_is_the_sauk_archive)
+- [Fear The Crow](fear_the_crow)
+- [Phantom Engine](phantom_engine)
+- [What is up with this place?](what_is_up_with_this_place)

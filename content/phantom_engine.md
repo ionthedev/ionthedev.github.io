@@ -14,7 +14,7 @@ tags:
 
 The Phantom Engine is a [[C++]] engine using the [Raylib Library](https://www.raylib.com). Here we will document all of the aspects of the engine as they are developed.
 
-To read the source code, visit the [[Fear The Crow]] GitHub repository.
+To read the source code, visit the [Fear The Crow](fear_the_crow) GitHub repository.
 
 
 # Table of Contents
