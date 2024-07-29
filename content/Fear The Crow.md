@@ -26,5 +26,5 @@ Brett and I met as coworkers at a previous employers, he is a wizard with basica
 
 To follow the development of the project, feel free to view our Trello and GitHub Repository. Links Below.
 
-Trello: https://trello.com/b/Xgkxy3Ux/fear-the-crow
+Trello: https://trello.com/b/ldju45lw/fear-the-crow/
 GitHub: https://github.com/ionthedev/Fear-the-Crow
