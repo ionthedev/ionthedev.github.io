@@ -12,5 +12,5 @@ tags:
 > [!warning]
 > Contents All of the linked pages and their contents are subject to be modified and changed at anytime
 
-The Phantom Engine is currently in a re-build. To see the previous structure using Raylib you can read the source code, visit the [Fear The Crow](fear_the_crow) GitHub repository.
+The Phantom Engine is currently in a re-structure to further reflect changes needed for Bullet3 Integration
 
